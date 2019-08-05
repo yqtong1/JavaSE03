@@ -8,4 +8,8 @@ public class Snake extends Pet {
     public void eat() {
         System.out.println("蛇吞象！");
     }
+
+    public void drink(){
+        System.out.println("新增喝水功能");
+    }
 }
